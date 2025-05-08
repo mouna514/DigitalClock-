@@ -1,7 +1,7 @@
 number gusseing 02:40
 temprature conversion 03:07
 dice roller 03:44
-digital clock 07:05
+Digital Clock  Program 07:05
 stop watch 07:16
 calculator program 07:54
 Rock Paper Scissor Game 09:59
